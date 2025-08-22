@@ -1,0 +1,12 @@
+[submodule "hwplib"]
+	path = hwplib
+	url = https://github.com/qazcdek/hwplib.git
+	branch = main
+[submodule "hwpxlib"]
+	path = hwpxlib
+	url = https://github.com/qazcdek/hwpxlib.git
+	branch = main
+[submodule "hwp2hwpx"]
+	path = hwp2hwpx
+	url = https://github.com/qazcdek/hwp2hwpx.git
+	branch = main
